@@ -198,6 +198,13 @@ export default function Terms() {
             </p>
 
             <h3 className="mb-3 mt-6 text-xl font-semibold text-gray-900">
+              Eligibility
+            </h3>
+            <p className="mb-4 text-gray-700">
+              You must be 18 years of age or older to use this SMS service.
+            </p>
+
+            <h3 className="mb-3 mt-6 text-xl font-semibold text-gray-900">
               Program Name
             </h3>
             <p className="mb-4 text-gray-700">
@@ -235,7 +242,8 @@ export default function Terms() {
               Message frequency varies depending on your engagement with our
               services. Message and data rates may apply based on your mobile
               carrier plan. We are not responsible for any charges you incur from
-              your mobile carrier.
+              your mobile carrier. Carriers are not liable for delayed or
+              undelivered messages.
             </p>
 
             <h3 className="mb-3 mt-6 text-xl font-semibold text-gray-900">
