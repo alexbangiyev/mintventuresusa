@@ -14,7 +14,7 @@ export default function Home() {
   const testimonials = [
     {
       quote:
-        'TOL Consulting helped us streamline our operations and set up workflows that actually work for our team. The documentation they created has been invaluable.',
+        'Mint Ventures helped us streamline our operations and set up workflows that actually work for our team. The documentation they created has been invaluable.',
       author: 'Sarah M.',
       company: 'Local Service Business',
     },

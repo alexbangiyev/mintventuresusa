@@ -1,7 +1,7 @@
 import { siteConfig } from '@/config/site'
 
 export default function Privacy() {
-  const lastUpdated = 'December 27, 2025'
+  const lastUpdated = 'May 28, 2026'
 
   return (
     <section className="py-16">

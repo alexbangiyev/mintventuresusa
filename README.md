@@ -1,6 +1,6 @@
-# TOL Consulting LLC
+# Mint Ventures Inc
 
-A modern, mobile-first marketing website for TOL Consulting LLC, a business operations and technology consulting firm specializing in process optimization, workflow improvements, and CRM setup for small businesses.
+A modern, mobile-first marketing website for Mint Ventures Inc, a business operations and technology consulting firm specializing in process optimization, workflow improvements, and CRM setup for small businesses.
 
 ## Features
 
@@ -119,4 +119,4 @@ This website follows best practices for A2P 10DLC SMS compliance:
 
 ## License
 
-Copyright © 2025 TOL Consulting LLC. All rights reserved.
+Copyright © 2025 Mint Ventures Inc. All rights reserved.

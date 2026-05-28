@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import { siteConfig } from '@/config/site'
 
 export default function Terms() {
-  const lastUpdated = 'December 27, 2025'
+  const lastUpdated = 'May 28, 2026'
 
   return (
     <section className="py-16">
@@ -201,7 +201,7 @@ export default function Terms() {
               Program Name
             </h3>
             <p className="mb-4 text-gray-700">
-              TOL Consulting LLC SMS Notifications
+              Mint Ventures Inc SMS Notifications
             </p>
 
             <h3 className="mb-3 mt-6 text-xl font-semibold text-gray-900">

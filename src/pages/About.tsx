@@ -29,7 +29,7 @@ export default function About() {
         <div className="container-custom">
           <div className="mx-auto max-w-3xl text-center">
             <h1 className="mb-4 text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-              About TOL Consulting
+              About Mint Ventures Inc
             </h1>
             <p className="text-xl text-gray-600">
               Helping small businesses build better operational foundations
@@ -46,7 +46,7 @@ export default function About() {
                 Our Mission
               </h2>
               <p className="mb-4 text-lg text-gray-700">
-                At TOL Consulting LLC, we believe that every small business
+                At Mint Ventures Inc, we believe that every small business
                 deserves operational clarity and systems that support growth.
                 Too many businesses struggle with unclear processes,
                 undocumented workflows, and technology that doesn&apos;t work

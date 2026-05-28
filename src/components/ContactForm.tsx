@@ -1,5 +1,6 @@
 import { useState, FormEvent } from 'react'
 import { Link } from 'react-router-dom'
+import { siteConfig } from '@/config/site'
 
 interface FormData {
   firstName: string
@@ -283,8 +284,8 @@ export default function ContactForm() {
             className="mt-1 h-4 w-4 rounded border-gray-300 text-primary-600 focus:ring-2 focus:ring-primary-500"
           />
           <label htmlFor="smsConsent" className="ml-3 text-sm text-gray-700">
-            I consent to receive SMS Notifications and Alerts from TOL Consulting LLC. Message frequency varies. Message & data rates may apply.
-            Text HELP to +1 307-394-5600 for Help.
+            I consent to receive SMS Notifications and Alerts from {siteConfig.name}. Message frequency varies. Message & data rates may apply.
+            Text HELP to {siteConfig.phone} for Help.
             You can reply STOP to unsubscribe at any time.
           </label>
         </div>
@@ -300,7 +301,7 @@ export default function ContactForm() {
             className="mt-1 h-4 w-4 rounded border-gray-300 text-primary-600 focus:ring-2 focus:ring-primary-500"
           />
           <label htmlFor="emailConsent" className="ml-3 text-sm text-gray-700">
-            By checking this box, I agree to receive occasional marketing messages from TOL Consulting LLC.
+            By checking this box, I agree to receive occasional marketing messages from {siteConfig.name}.
           </label>
         </div>
       </div>
