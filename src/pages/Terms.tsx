@@ -208,7 +208,7 @@ export default function Terms() {
               Program Name
             </h3>
             <p className="mb-4 text-gray-700">
-              Mint Ventures Inc SMS Notifications
+              Mint Ventures SMS Notifications
             </p>
 
             <h3 className="mb-3 mt-6 text-xl font-semibold text-gray-900">

@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: 'Mint Ventures Inc',
+  name: 'Mint Ventures',
   address: '7020 Austin Street, Suite 130, Forest Hills, NY 11375',
   phone: '+1 929-734-7672',
   email: 'support@mintventuresusa.com',
